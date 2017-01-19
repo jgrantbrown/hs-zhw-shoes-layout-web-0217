@@ -28,7 +28,7 @@
     width: 100%;
 }
 
-[class*='col-']{}
+[class*='col-']{
 float:left;
 }
 
