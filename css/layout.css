@@ -23,6 +23,12 @@
 }
 
 /* Posititoning Classes */
-.twocolumns{
-  width=50%;
+.halfcolumns{
+  width:50%;
+  float:left;
+}
+
+.halfcolumnsright{
+  width:50%;
+  float:right;
 }
